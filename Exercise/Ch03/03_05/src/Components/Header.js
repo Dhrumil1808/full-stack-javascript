@@ -12,4 +12,4 @@ Header.propTypes = {
 }
 
 
-export defualt Header;
+export default Header;
